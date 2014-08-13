@@ -23,10 +23,17 @@ https://github.com/giagiannis/anonymity
 
 https://github.com/dscape/mondrian-multidimensional-k-anonymity        
 
+https://github.com/utulsa-ibcb/xnat-deidentification
+
+https://github.com/saramirza14/openmrs-module-deidentifiedpatientdataexport
+
+https://github.com/NaviNet/PhiDeid
+
 
 ##  涉及到匿名化处理的项目            
 
 http://axleproject.eu/          
+salus
 
 
 
